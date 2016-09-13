@@ -28,7 +28,7 @@ s.homepage = "https://github.com/alexanderludvigs"
 
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "https://github.com/alexanderludvigs/RWPickFlavor.git", :commit => "e188b758bba61544e039faae7f9e487a2c4ddb4e", :tag => "#{s.version}"}
+s.source = { :git => "https://github.com/alexanderludvigs/RWPickFlavor.git", :tag => "#{s.version}"}
 
 # For example,
 # s.source = { :git => "https://github.com/JRG-Developer/RWPickFlavor.git", :tag => "#{s.version}"}
